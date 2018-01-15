@@ -1,9 +1,3 @@
-/*
- * Scheduler.c
- *
- * Created: 1/7/2018 1:38:40 PM
- *  Author: NewUsername
- */ 
 
 #include "Scheduler.h"
 
