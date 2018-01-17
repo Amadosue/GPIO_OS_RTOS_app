@@ -1,10 +1,3 @@
-/*
- * Scheduler.h
- *
- * Created: 1/7/2018 1:38:57 PM
- *  Author: NewUsername
- */ 
-
 
 #ifndef SCHEDULER_H_
 #define SCHEDULER_H_
